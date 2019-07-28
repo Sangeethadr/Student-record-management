@@ -1,0 +1,10 @@
+
+<html>
+ 
+
+ <body>
+ <h2> invalid user name or password.please enter correct username and password</h2><br>
+ <a href="http://localhost/college10/login.html">login</a>
+  
+ </body>
+</html>

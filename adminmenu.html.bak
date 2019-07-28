@@ -1,0 +1,15 @@
+
+<html>
+ 
+
+ <body>
+ <h2>Admin menu</h2><br>
+ 1.<a href="http://localhost:8888/college11/createuser.html">create user</a><br>
+ 2.delete user<br>
+ 3.edit user<br>
+ 4.<a href="http://localhost:8888/college11/entermarks.html">enter marks</a><br>
+ 5.<a href="http://localhost:8888/college11/enterattendence.html">enter attendence</a><br>
+ <a href="http//localhost:8888/college11/logout">logout</a>
+  
+ </body>
+</html>
